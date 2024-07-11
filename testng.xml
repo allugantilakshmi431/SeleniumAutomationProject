@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="swag lans" verbose="1">
+  
+  <test name="login senario">
+    <classes>
+       <class name="com.swalabs.automation.tc.LoginTc"/>
+    </classes>
+  </test>
+
+  
+</suite>
